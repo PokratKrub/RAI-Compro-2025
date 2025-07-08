@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    printf("\n%-1d", ^   ^$);
-    printf("(  ^   ^ )$");
-    printf("\n%-3d", o$);
+    printf("	^   ^$\n");
+    printf("(  ^   ^ )$\n");
+    printf("     o$\n");
+
 return(0);
 }
