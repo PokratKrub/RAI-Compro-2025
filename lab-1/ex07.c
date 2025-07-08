@@ -1,9 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    printf("	^   ^$\n");
-    printf("(  ^   ^ )$\n");
-    printf("     o$\n");
-
-return(0);
+    printf("%3c %2c$\n",'^','^');
+    printf("(%3c %2c )$\n",'^','^');
+    printf("%6c$",'o');
+    
+    return(0);
 }
+
+
